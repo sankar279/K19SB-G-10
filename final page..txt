@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+	<title>Helping Hands </title>
+	 <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+	<h1> Gallery of Complaints</h1>
+	<div class ="finalpage">
+
+		<form method ="post" id="complain" action =""> 
+			
+			
+		
+				<label> Riot: </label><br>
+							<input type="text" name="Fname" id ="name" placeholder="Here are some problem"><br><br>
+				<label> Electricity: </label><br>
+							<input type="text" name="Fname" id ="name" placeholder="Here are some problem"><br><br>
+				<label> Dowry: </label><br>
+							<input type="text" name="Fname" id ="name" placeholder="Here are some problem"><br><br>
+				<label> Acid attack: </label><br>
+							<input type="text" name="Fname" id ="name" placeholder="Here are some problem"><br><br>
+				<label>Society problem: </label><br>
+							<input type="text" name="Fname" id ="name" placeholder="Here are some problem"><br><br>
+				<label> Water problem: </label><br>
+							<input type="text" name="Fname" id ="name" placeholder="Here are some problem"><br><br>
+				<label> Other Problem: </label><br>
+							<input type="text" name="Fname" id ="name" placeholder="Here are some problem"><br><br>
+				
+
+			
+			
+			
+			
+
+			
+			
+
+			
+			
+			
+
+			
+					</form>
+				</div>
+				</body>
+				</html>
